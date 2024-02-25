@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(78, 157, 184);
+
+}
+.logo{
+    border-radius: 15px;
+}
+.me{
+    border-radius: 15px;
+    height: 40px;
+    width: 90px;
+}
+.media{
+    border-radius: 15px;
+    height: 40px;
+    width: 90px;
+}
+span{
+    align-items: center;
+    font-size: 50px;
+    width: 90px;
+    border-radius: 15px;
+}
+.back{
+    background-color: red;
+}
